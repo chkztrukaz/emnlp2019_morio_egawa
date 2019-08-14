@@ -7,7 +7,7 @@
 
 #### 1. [EMNLP 2019] Elementary Units Reveal Online Persuasion Strategy
 
-This paper more analyzes EUs in the view of "what makes persuasive" than the previous workshop paper, and shows the method to predict EUs by neural networks.
+This paper is a complete study which only analyzes EUs in the view of "what makes online arguments persuasive" than the previous workshop paper, and shows the method to predict EUs by neural networks.
 Moreover, this paper isn't focusing on Support/Attack links to highlight EUs.
 
 ```
