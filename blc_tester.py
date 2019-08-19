@@ -137,7 +137,6 @@ def main():
     test_conll_documents = [
             DataClass.ConllDocument(
             sentence_id='0',
-            train_type=DataClass.TrainType.Train,
             token_list=tokens,
             bio_list=['O' for _ in tokens],  # Dummy
             tag_list=[DataClass.ConllTag.NONE for _ in tokens]  # Dummy
