@@ -1,0 +1,12 @@
+op_id: 103
+op_title: I don't believe that the military should have different fitness standards for men and women. CMV
+
+The US army [requires](http://usmilitary.about.com/od/army/a/afpt.htm):
+
+             push-ups  sit-ups  2-mile run
+
+     men      40           50              16:36
+     women    17           50               23:06
+
+What rational justification can there be for excluding a man from the military who can meet the female standards but not the male standards. If fitness requirements serve a functional military purpose, why should a man who can do only 20 push-ups in a minute be rejected while a woman at the same level would be adequately fit? If certain levels of fitness are required for the job, why should women get a handicap? Is the purpose of the fitness requirements to reward people who are relatively fit for their peer group or to serve functional goals?
+

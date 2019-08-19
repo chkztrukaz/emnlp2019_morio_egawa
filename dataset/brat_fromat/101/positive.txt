@@ -1,0 +1,8 @@
+op_id: 101
+op_title: I don't believe that, regarding sexual preference, we're necessarily born that way. CMV
+
+I don't think you'll find hard evidence that it's set *at birth*, but there is tremendous evidence that genetics play a big role. 
+
+The most popular piece of evidence is a study done on twins. Identical twins are much more likely to be gay if the other one is gay than fraternal twins -- and the trend holds up even when identical twins are separated at birth. This controls for environmental factors extremely well and shows that their genetics do have a huge component to play in their sexuality.
+
+Source: http://hawaii.edu/PCSS/biblio/articles/1961to1999/1993-homosexual-orientation-in-twins.html

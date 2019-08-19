@@ -1,0 +1,14 @@
+1	But	_	_	O
+2	then	_	_	O
+3	I	_	_	B-Testimony
+4	have	_	_	I-Testimony
+5	gdb	_	_	I-Testimony
+6	,	_	_	I-Testimony
+7	pry	_	_	I-Testimony
+8	,	_	_	I-Testimony
+9	and	_	_	I-Testimony
+10	the	_	_	I-Testimony
+11	debugger	_	_	I-Testimony
+12	in	_	_	I-Testimony
+13	ruby	_	_	I-Testimony
+14	.	_	_	O

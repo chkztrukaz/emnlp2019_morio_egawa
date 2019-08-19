@@ -1,0 +1,14 @@
+op_id: 84
+op_title: I don't think there should be "attorney privelege" and that attorneys should be able to tell the court if their client admits to a charge. CMV
+
+Even if the defendant is guilty, the defense attorney still has a duty to defend him:  not for its own sake, but to keep the state's prosecution honest. Defense attorneys aren't protecting the guilty as much as they are protecting the Constitution and our judicial process.
+
+People need to be proven guilty based on the evidence.  Prosecutors need to know that solid, factual evidence is the only reliable path to a conviction.  The alternative is a government that can charge people at random and see what sticks.  
+
+Imagine someone is brought to trial only on the strength of falsely planted evidence, then convicted because of statements made in confidence to an attorney.   The state did not do its job.  In fact, the state learns that planting evidence helps put the bad guys away-- even though there was originally no evidence that the suspect committed a crime.
+
+Maybe next week they plant the evidence in *your* car, and for whatever reason your attorney can't demonstrate reasonable doubt, and now you're going to prison for a crime you didn't commit.
+
+Keep in mind that a mere arrest can ruin a person's life:  if you can't afford bail, you might sit in jail for *months* awaiting trial, losing your job and house in the process.
+
+As a sidenote, you're not only advocating the removal of attorney-client privilege, but several Constitutional principles including the right to avoid self-incrimination (5th amendment) and the right of the accused (including the guilty) to a competent defense.  Also, the defendants comments would probably be inadmissible as hearsay even if attorney-client wasn't an issue.

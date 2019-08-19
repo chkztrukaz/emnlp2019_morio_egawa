@@ -1,0 +1,14 @@
+1	CMV	_	_	O
+2	Big	_	_	O
+3	fucking	_	_	O
+4	deal	_	_	O
+5	:	_	_	O
+6	the	_	_	B-Fact
+7	NSA	_	_	I-Fact
+8	tracks	_	_	I-Fact
+9	my	_	_	I-Fact
+10	phone	_	_	I-Fact
+11	and	_	_	I-Fact
+12	email	_	_	I-Fact
+13	records	_	_	I-Fact
+14	.	_	_	O

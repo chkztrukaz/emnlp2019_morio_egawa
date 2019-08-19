@@ -1,0 +1,7 @@
+1	CMV	_	_	O
+2	Vaccinations	_	_	B-Value
+3	prevent	_	_	I-Value
+4	diseases	_	_	I-Value
+5	,	_	_	I-Value
+6	period	_	_	I-Value
+7	.	_	_	O

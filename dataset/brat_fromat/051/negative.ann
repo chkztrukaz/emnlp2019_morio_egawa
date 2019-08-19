@@ -1,0 +1,10 @@
+T1	Value 132 193	The open-source development environment is called ***Linux***
+T2	Value 1374 1469	That's just from the *command line*, and most of that stuff doesn't require installing anything
+T3	Fact 1476 1513	this is *before you pay for anything*
+T4	Testimony 1516 1671	I've been using vim for a few years (not that long by guru standards) and I'm easily 3-4x more productive in it than in a more traditional IDE-style editor
+T5	Value 1674 1862	With ctags and similar tools I can use it to jump to a definition of any variable, function, or class, view a call tree or an object browser, or fold in sections of code that are in my way
+T6	Value 1865 2032	If you've only used the relatively dumb editors in (even the latest versions of) Visual Studio, you have *absolutely no idea* how much more powerful a strong editor is
+T7	Value 2040 2171	there's a learning curve, but for something that you're going to be doing every day for the rest of your life, it's not prohibitive
+T8	Value 2174 2488	For other tasks, the standard (GNU) Linux command line has evolved over the course of twenty years to be one of the best text-processing tools in the world, due largely to the piping paradigm, the wide variety of text processing tools standard in the shell, and the ease and integration of things like Perl scripts
+T9	Testimony 2491 2672	I manage a large C systems code base and it would be much, much harder without the tools Linux affords (and I have a lot of development experience in both MS and Linux environments)
+T10	Value 2675 2697	We'd be *years* behind

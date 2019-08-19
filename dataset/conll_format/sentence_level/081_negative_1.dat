@@ -1,0 +1,14 @@
+1	To	_	_	O
+2	be	_	_	O
+3	fair	_	_	O
+4	,	_	_	O
+5	I	_	_	B-Testimony
+6	never	_	_	I-Testimony
+7	thought	_	_	I-Testimony
+8	I	_	_	I-Testimony
+9	wanted	_	_	I-Testimony
+10	a	_	_	I-Testimony
+11	diamond	_	_	I-Testimony
+12	engagement	_	_	I-Testimony
+13	ring	_	_	I-Testimony
+14	.	_	_	O

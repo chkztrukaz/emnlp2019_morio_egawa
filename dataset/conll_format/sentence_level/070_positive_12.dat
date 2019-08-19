@@ -1,0 +1,17 @@
+1	100	_	_	B-Fact
+2	%	_	_	I-Fact
+3	of	_	_	I-Fact
+4	the	_	_	I-Fact
+5	kinetic	_	_	I-Fact
+6	energy	_	_	I-Fact
+7	of	_	_	I-Fact
+8	a	_	_	I-Fact
+9	moving	_	_	I-Fact
+10	vehicle	_	_	I-Fact
+11	is	_	_	I-Fact
+12	lost	_	_	I-Fact
+13	due	_	_	I-Fact
+14	to	_	_	I-Fact
+15	conventional	_	_	I-Fact
+16	braking	_	_	I-Fact
+17	.	_	_	O

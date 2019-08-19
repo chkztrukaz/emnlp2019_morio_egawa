@@ -1,0 +1,14 @@
+1	CMV	_	_	O
+2	Ok	_	_	O
+3	,	_	_	O
+4	lets	_	_	O
+5	say	_	_	O
+6	I	_	_	B-Testimony
+7	got	_	_	I-Testimony
+8	a	_	_	I-Testimony
+9	3.7	_	_	I-Testimony
+10	GPA	_	_	I-Testimony
+11	throughout	_	_	I-Testimony
+12	my	_	_	I-Testimony
+13	education	_	_	I-Testimony
+14	.	_	_	O

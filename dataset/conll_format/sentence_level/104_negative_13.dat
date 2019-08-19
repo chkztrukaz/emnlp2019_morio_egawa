@@ -1,0 +1,15 @@
+1	$	_	_	I-Fact
+2	18	_	_	I-Fact
+3	billion	_	_	I-Fact
+4	for	_	_	I-Fact
+5	nondefense	_	_	I-Fact
+6	scientific	_	_	I-Fact
+7	research	_	_	I-Fact
+8	and	_	_	I-Fact
+9	development	_	_	I-Fact
+10	]	_	_	I-Fact
+11	(	_	_	I-Fact
+12	http://www.nytimes.com/2009/10/18/science/18sfstimulus.html	_	_	I-Fact
+13	)	_	_	O
+14	10	_	_	O
+15	.	_	_	O

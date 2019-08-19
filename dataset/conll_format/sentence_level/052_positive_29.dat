@@ -1,0 +1,17 @@
+1	I	_	_	O
+2	can	_	_	O
+3	only	_	_	O
+4	say	_	_	O
+5	that	_	_	O
+6	once	_	_	B-Testimony
+7	I	_	_	I-Testimony
+8	start	_	_	I-Testimony
+9	drinking	_	_	I-Testimony
+10	,	_	_	I-Testimony
+11	I	_	_	I-Testimony
+12	'm	_	_	I-Testimony
+13	damn	_	_	I-Testimony
+14	near	_	_	I-Testimony
+15	powerless	_	_	I-Testimony
+16	stop	_	_	I-Testimony
+17	.	_	_	O

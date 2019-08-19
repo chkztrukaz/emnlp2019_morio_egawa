@@ -1,0 +1,16 @@
+1	I	_	_	O
+2	would	_	_	O
+3	argue	_	_	O
+4	that	_	_	O
+5	pirating	_	_	B-Value
+6	a	_	_	I-Value
+7	small	_	_	I-Value
+8	artists	_	_	I-Value
+9	music	_	_	I-Value
+10	is	_	_	I-Value
+11	quite	_	_	I-Value
+12	often	_	_	I-Value
+13	a	_	_	I-Value
+14	good	_	_	I-Value
+15	thing	_	_	I-Value
+16	.	_	_	O

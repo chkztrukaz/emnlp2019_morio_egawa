@@ -1,0 +1,6 @@
+op_id: 78
+op_title: I believe that it should never take more than a few hours the night before an exam to study. CMV
+
+As a mathematics and computer science major, I personally study best from doing practice problems over and over until I've sharpened my intuition as well as my working knowledge of how the tools I have learned relate to each other. This process takes much longer than a few hours.
+
+In abstract mathematics especially, knowing the definitions simply isn't enough to be ready for an exam. You have to know how to attack problems, where hangups and issues can arise, and you're racing against the clock for the entire exam. Without having done practice problems to get me in the zone, I will not be prepared. Yes, all the homework I do over the course of the semester is good practice and helps me learn, but you move away from topics quickly and it's very easy to forget how to use certain definitions and ideas if you haven't touched them for a few months.

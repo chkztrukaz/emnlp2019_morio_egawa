@@ -1,0 +1,18 @@
+op_id: 35
+op_title: I think that charging different demographics different rates on car insurance is unjust. CMV.
+
+&gt; but that does not warrant discriminating against every individual in the group.
+
+Rather than looking at it as discrimination, I want to illustrate that it's part of an elaborate game.
+
+To try to change your view, I want to start with a casino.  Ultimately, a casino is taking a risk with every bet it takes; it has to handle the possibility to paying out each and every time.  To minimize the risk, the "house" has a hierarchy of wagers, so that bets with a low-risk of paying out require less initial investment than those with a higher risk of paying out.
+
+Consider the roulette wheel.  Because the odds that the result will be "red" just under half the time, such bets are relatively risky for the house.  To keep from losing all their money, they are going to make sure that the payout on that is relatively low: 1 dollar gets you 2.  On the other hand, anyone picking a single number has a low chance of winning, so that is a lower risk for the house.  They can offer a return of 36 times the bet because the chances that they'll have to pay are really low.  If a casino offered 36:1 returns on a 50-50 bet, they wouldn't be in business for long.
+
+Now, think of insurance as organized gambling.  When you take out an auto policy, you are basically wagering that you are going to get into an accident someday.  Meanwhile, the "house," or the insurance company, is wagering that you won't.  In order to stay in business, then, the insurance company has to make sure that the odds aren't stacked against them.  For young men under the age of 25, statistically that's akin to the "red-black" bet on a roulette wheel; a very risky wager.  Thus they aren't going to give big payouts unless the initial investment is high.
+
+Meanwhile, those demos with statistically lower risks wouldn't have to spend as much to "play" because the insurance company knows that the chances they'll have to pay out are slim.
+
+The alternative would be that all payouts would be of the "red-black" variety, because otherwise, the insurance company wouldn't be able to stay in business if it offered the low-investment/high-return bet for everyone.  Like the casino giving 36:1 on every bet, an insurance company wouldn't stay in business for long offering the same rates/wagers to everyone.
+
+TL,DR:  Insurance is organized gambling, and demographics are the spaces on a roulette wheel; not everything is going to pay out the same.

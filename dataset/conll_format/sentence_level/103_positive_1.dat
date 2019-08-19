@@ -1,0 +1,15 @@
+1	As	_	_	O
+2	we	_	_	O
+3	all	_	_	O
+4	know	_	_	O
+5	,	_	_	O
+6	military	_	_	B-Fact
+7	jobs	_	_	I-Fact
+8	often	_	_	I-Fact
+9	require	_	_	I-Fact
+10	no	_	_	I-Fact
+11	physical	_	_	I-Fact
+12	activity	_	_	I-Fact
+13	at	_	_	I-Fact
+14	all	_	_	I-Fact
+15	.	_	_	O

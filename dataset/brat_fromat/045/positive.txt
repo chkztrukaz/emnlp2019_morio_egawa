@@ -1,0 +1,10 @@
+op_id: 45
+op_title: I believe that Linux is fully ready for the desktop, CMV
+
+The biggest issue is that all of the things you have listed are not primarily concerns for the general public of computer users. Ease of use and familiarity are the chief concerns and these are two metrics in which even the best Linux OS's fails spectacularly. 
+
+Linux, if time is spent configuring it, can be great. Unfortunately most people will never take the time to do this and find the UI of the OS quite annoying and counter intuitive after 2 decades of exposure to windows. 
+
+Clearly you are someone who is knowledgeable in computers so you see no problem in adapting to Linux use. Imagine having the headache you would receive teaching every member of your extended family how to operate Linux. Now expand that onto a population that isn't going to have a handy guide to hold their hand the whole way. 
+
+Until Linux takes significant steps to adapt it's UI to a more user friendly design it will never receive more than a niche market share of OS's. Private citizens and businesses alike will be weary to adapt it until this problem is addressed. 

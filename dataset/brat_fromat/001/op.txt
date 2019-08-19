@@ -1,0 +1,28 @@
+op_id: 1
+op_title: Here's what I would change about American gun regulations. CMV
+
+Stipulated: improving the way we regulate guns is not the only way to reduce the frequency at which we're violently killing each other. But it is **a** way.
+
+Let me also say that I'm reasonably sure that *something* needs to change about the way the 2nd Amendment is viewed. I'm less sure about exactly what should be done. Here is what comes to my mind. I may not be able to defend these ideas in much detail, and I'm interested in the community's thoughts. I mainly wished to argue ([as I did in another CMV](http://www.reddit.com/r/changemyview/comments/17qbhy/i_think_the_2nd_amendment_has_been_interpreted/)) that **something** needs doing. Indeed, if you don't agree that there is a need for more regulations or increased enforcement, or if you feel that it would be unconstitutional to do as I recommend, then we should discuss it in that other CMV.
+
+But I was [pressed](http://www.reddit.com/r/changemyview/comments/17qbhy/i_think_the_2nd_amendment_has_been_interpreted/c8apofv) for specifics, so these are some of the possibilities I think are reasonable. Please tell me what you think of these, and tell me what else you would like the government to do. 
+
+1. If you aren't properly licensed, you can't own or possess a gun. Getting a license means demonstrating some kind of proficiency related to safely and responsibly storing and using the weapon. Like a driver's license. And like a driver's license, demonstrating increased levels of proficiency and responsibility means you can own more (and more destructive) weapons, or even carry them in public. I'm not reflexively opposed to private ownership of, say, semiautomatic handguns, assault weapons or large magazines. But I'd like owners of those kinds of weapons to undergo frequent and intrusive recertifications, with the intrusiveness and frequency tied to the lethality of the weapons/magazines.
+
+2. Getting a license involves background checks and some kind of mental health evaluation. The more significant the license, the deeper the checks.
+
+3. You can't buy or own ammunition without a license. Maybe there should be restrictions or bans on especially destructive ammo.  
+
+4. I've heard suggestions of an exorbitant tax on ammunition. CMV, but I don't see how that helps.
+
+5. If you are in possession of a firearm, you need to be able to demonstrate that you acquired it legally and are properly licensed. Just like a car. "License and registration please."
+
+6. All firearms must be traceable. You can't sell a firearm except to someone licensed to own it. All firearms must be individually identifiable, and all firearms sales must be recorded and tracked. Just like a car.
+
+7. You have to display your license to be ~~admitted to~~ served at such places as firing ranges, gun stores and gun shows.
+
+8. If a firearm is used in a crime or is found in the wrong hands, the weapon's registered owner must be held to account. If you lost it or it was stolen from you, your license is suspended, downgraded or revoked because ipso facto you didn't meet your responsibility for safeguarding it.
+
+9. The BATF and other enforcement agencies have to be funded and empowered to enforce these and other regulations nationwide so weaknesses in one state don't lead to a flow of weapons elsewhere. And a national database will, of course be required.
+
+EDIT: converted bullets to numbers for readability with /u/JOberlander's response.

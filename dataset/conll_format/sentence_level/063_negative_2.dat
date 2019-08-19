@@ -1,0 +1,17 @@
+1	You	_	_	B-Value
+2	probably	_	_	I-Value
+3	took	_	_	I-Value
+4	the	_	_	I-Value
+5	elective	_	_	I-Value
+6	course	_	_	I-Value
+7	offered	_	_	I-Value
+8	to	_	_	I-Value
+9	students	_	_	I-Value
+10	outside	_	_	I-Value
+11	engineering	_	_	I-Value
+12	,	_	_	I-Value
+13	math	_	_	I-Value
+14	,	_	_	I-Value
+15	physics	_	_	I-Value
+16	majors	_	_	I-Value
+17	.	_	_	O

@@ -1,0 +1,14 @@
+op_id: 51
+op_title: I believe Microsoft Visual Studio 1998 runs rings around any current open source development environment. CMV.
+
+The biggest issue is that you're challenging your years of knowledge and experience with a small amount of time with the "opposing view". If I went from my vim/tmux/rake/ruby/rails/command-line work into VS, I'm sure I would find myself very uncomfortable very quickly. In fact, I know I will because when I did some iOS work in XCode and some Android work in Eclipse, I was very uncomfortable. So, remember that you're not just comparing environments, you're comparing your well-worn, broken-in shoes with a brand new pair from a new manufacturer -- shit ain't just gonna sit right on the first try.
+
+Now, that said, the majority of the time I'm doing work on apps, I don't need or use the debugger -- not that I don't have one, but it doesn't come up much. It's a (if you forgive the phrase) paradigm shift. I write my tests and I make them pass. There's not much need for a debugger until I'm plugging through someone else's code and I need to figure things out. But then I have gdb, pry, and the debugger in ruby.
+
+Also, I don't "only" use a text editor. I use vim as my editor, sure, but even there it's not "just" a text editor (though it's a damned fine editor). It's also where I run my tests fromt, it's provides syntax highlighting and code formatting (gg=G to indent and format the whole file is nice), it provides autocomplete, it provides jumping to method and variable definitions. It provides workspace management. It provides automation.
+
+I also use tmux, which puts a console into the same terminal as vim (among other things) And coupled with vim, I hit \t and it dispatch.vim pops up a split where my tests run. The results are parsed into a nice, usable format that I can automatically jump to the files and lines where the failures are. If I have to quit the terminal, I can jump back to exactly how my terminal was the second I had to quit.
+
+I can pair program with someone literally anywhere that internet access exists, completely seamlessly -- they don't even need anything installed on their system past an SSH client.
+
+The only way I can justify the "going back 20 years" statement is that you think terminals themselves are old. Personally, I think IDEs are garbled, slow messes, so I guess we both have our prejudices. :)

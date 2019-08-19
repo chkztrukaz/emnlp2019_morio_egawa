@@ -1,0 +1,17 @@
+1	The	_	_	B-Fact
+2	median	_	_	I-Fact
+3	spending	_	_	I-Fact
+4	per	_	_	I-Fact
+5	year	_	_	I-Fact
+6	on	_	_	I-Fact
+7	football	_	_	I-Fact
+8	equipment	_	_	I-Fact
+9	is	_	_	I-Fact
+10	$	_	_	I-Fact
+11	742,000	_	_	I-Fact
+12	for	_	_	I-Fact
+13	NCAA	_	_	I-Fact
+14	Division	_	_	I-Fact
+15	1	_	_	I-Fact
+16	schools	_	_	I-Fact
+17	.	_	_	O

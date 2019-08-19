@@ -1,0 +1,21 @@
+T1	Value 132 268	The biggest issue is that you're challenging your years of knowledge and experience with a small amount of time with the "opposing view"
+T2	Value 270 400	If I went from my vim/tmux/rake/ruby/rails/command-line work into VS, I'm sure I would find myself very uncomfortable very quickly
+T3	Value 411 424	I know I will
+T4	Testimony 433 525	when I did some iOS work in XCode and some Android work in Eclipse, I was very uncomfortable
+T5	Testimony 750 889	the majority of the time I'm doing work on apps, I don't need or use the debugger -- not that I don't have one, but it doesn't come up much
+T6	Value 891 940	It's a (if you forgive the phrase) paradigm shift
+T7	Testimony 942 979	I write my tests and I make them pass
+T8	Testimony 981 1096	There's not much need for a debugger until I'm plugging through someone else's code and I need to figure things out
+T9	Testimony 1107 1148	I have gdb, pry, and the debugger in ruby
+T10	Testimony 1157 1189	I don't "only" use a text editor
+T11	Testimony 1191 1213	I use vim as my editor
+T12	Value 1225 1265	even there it's not "just" a text editor
+T13	Value 1274 1299	it's a damned fine editor
+T14	Testimony 1302 1526	It's also where I run my tests fromt, it's provides syntax highlighting and code formatting (gg=G to indent and format the whole file is nice), it provides autocomplete, it provides jumping to method and variable definitions
+T15	Testimony 1587 1761	I also use tmux, which puts a console into the same terminal as vim (among other things) And coupled with vim, I hit \t and it dispatch.vim pops up a split where my tests run
+T16	Testimony 1763 1888	The results are parsed into a nice, usable format that I can automatically jump to the files and lines where the failures are
+T17	Testimony 1890 1993	If I have to quit the terminal, I can jump back to exactly how my terminal was the second I had to quit
+T18	Testimony 1996 2175	I can pair program with someone literally anywhere that internet access exists, completely seamlessly -- they don't even need anything installed on their system past an SSH client
+T19	Value 2178 2287	The only way I can justify the "going back 20 years" statement is that you think terminals themselves are old
+T20	Value 2309 2338	IDEs are garbled, slow messes
+T21	Value 2351 2378	we both have our prejudices

@@ -1,0 +1,14 @@
+1	One	_	_	O
+2	other	_	_	O
+3	thing	_	_	O
+4	to	_	_	O
+5	mention	_	_	O
+6	is	_	_	O
+7	my	_	_	B-Value
+8	personal	_	_	I-Value
+9	philosophy	_	_	I-Value
+10	is	_	_	I-Value
+11	close	_	_	I-Value
+12	to	_	_	I-Value
+13	Humanism	_	_	I-Value
+14	.	_	_	O

@@ -1,0 +1,16 @@
+1	I	_	_	B-Testimony
+2	am	_	_	I-Testimony
+3	an	_	_	I-Testimony
+4	atheist	_	_	I-Testimony
+5	,	_	_	O
+6	and	_	_	O
+7	I	_	_	B-Value
+8	support	_	_	I-Value
+9	a	_	_	I-Value
+10	scientifically	_	_	I-Value
+11	informed	_	_	I-Value
+12	view	_	_	I-Value
+13	on	_	_	I-Value
+14	public	_	_	I-Value
+15	policy	_	_	I-Value
+16	.	_	_	O

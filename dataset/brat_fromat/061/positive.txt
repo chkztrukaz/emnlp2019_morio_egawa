@@ -1,0 +1,18 @@
+op_id: 61
+op_title: I believe allowing unrelated topics to be part of the same bill is damaging to the legislative process. CMV
+
+It's actually beneficial: This is how minority interests get things done.
+
+Ignoring the practical problems that arise when we start creating arbitrary issue boundaries, a system where every issue is segmented would be a system dominated by majority interests and also a system where negotiating is severely limited.
+
+For instance, suppose a few states live in a particularly dry region of the country. These states might have a minority interest in, say, fresh water delivery systems. Suppose they need to build a new one. Answer this for yourself: Why would the majority fund a project like this?
+
+1. Because they are generous?
+2. Because it's the right thing to do?
+3. Because they can get something in exchange?
+
+By allowing 'unrelated' issues into bills, we give this minority interest leverage at the negotiating table. They can effectively say: we can't support your bill unless we get traction on our issue as well. In addition, by giving them a stake at the table, we can make our bill, which may otherwise be irrelevant to the minority, something worth taking action on.
+
+Now this does NOT mean dry-state representatives can SAFELY vote NO on a bill when they don't get traction on their issue. A vote is a constantly evolving negotiation, where the public perception, public desire, majority interest, and minority interest are constantly balancing. Allowing bills to be open documents maximizes the issues that get weighed into this calculation. I think this is a good thing - even though is may be frustrating when your issue is blocked by some other interest. 
+
+**tldnr;** unrelated topics increase the leverage of minority interests and makes the original bill appealing to more counter parties.

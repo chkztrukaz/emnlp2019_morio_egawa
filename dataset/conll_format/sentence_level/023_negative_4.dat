@@ -1,0 +1,13 @@
+1	For	_	_	O
+2	instance	_	_	O
+3	,	_	_	O
+4	a	_	_	B-Fact
+5	person	_	_	I-Fact
+6	who	_	_	I-Fact
+7	is	_	_	I-Fact
+8	unconscious	_	_	I-Fact
+9	can	_	_	I-Fact
+10	still	_	_	I-Fact
+11	get	_	_	I-Fact
+12	hard	_	_	I-Fact
+13	.	_	_	O

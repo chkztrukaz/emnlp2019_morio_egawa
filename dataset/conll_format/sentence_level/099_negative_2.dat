@@ -1,0 +1,14 @@
+1	This	_	_	O
+2	means	_	_	O
+3	that	_	_	O
+4	athletics	_	_	B-Fact
+5	are	_	_	I-Fact
+6	at	_	_	I-Fact
+7	least	_	_	I-Fact
+8	partially	_	_	I-Fact
+9	funded	_	_	I-Fact
+10	by	_	_	I-Fact
+11	private	_	_	I-Fact
+12	alumni	_	_	I-Fact
+13	donations	_	_	I-Fact
+14	.	_	_	O

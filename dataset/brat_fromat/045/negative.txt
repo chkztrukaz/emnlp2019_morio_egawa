@@ -1,0 +1,12 @@
+op_id: 45
+op_title: I believe that Linux is fully ready for the desktop, CMV
+
+While exercising your ability to read manuals and use Google is educational and, in this area, likely a worthwhile investment in the modern world, it is generally not what users are after.  Personally, when choosing between two programs I don't give "requires extensive learning" a significant positive weight.
+
+As for performance, I've found that mostly to be an aspect of more minimalistic setups, which require more experience to set up and run.
+
+In short, the benefits you list do exist, but they are all very long-term; in the short-term, there are plenty of obstacles such as needing to find replacements for programs one uses, or setting up wine, or configuring Xorg.  Many common operations, such as syncing with an iPhone, are not officially supported.  Flash is still not exactly perfect.
+
+The situation is getting better, but expecting people to move without becoming less productive for at least a few weeks is unreasonable.  It is similar to suggesting people learn Dvorak or Lojban; perhaps ultimately superior in some sense, but not a sufficient benefit for the average user.
+
+-Proud Linux user since 2006.

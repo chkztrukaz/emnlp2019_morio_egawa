@@ -1,0 +1,12 @@
+op_id: 51
+op_title: I believe Microsoft Visual Studio 1998 runs rings around any current open source development environment. CMV.
+
+I've been a Visual Studio .NET developer for 6 years after been a C++ developer for a similar time. MS Visual Studio is by far the best development environment I've used. Recently I brought into the open source "I-only-use-a-text-editor" development hype: I tried javascript, node, ruby on rails, clojure. edit: to clarify, I'm not talking about Java here - I've never used it, and I think it is vilified as much as VS.
+
+It's like going back 20 years. ..Well, at least 15 - at least we had debug, edit, and continue back then. Chrome dev tools are only catching up 15 years later! Most people are still using dev tools and a separate editor, 1990 style!
+
+I think all these new languages are hype and most of you don't even know what intelli-sense is. 
+
+Just Kidding - I do like these open source languages - but why are they better?
+
+CMV.

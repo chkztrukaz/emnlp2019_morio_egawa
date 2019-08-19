@@ -1,0 +1,20 @@
+T1	Value 153 213	what you're forgetting here is the possibility of dependence
+T2	Value 215 278	Some people with ADHD don't take these medications specifically
+T3	Value 287 366	they've already developed coping mechanisms to help increase their productivity
+T4	Value 368 432	If you start on these meds young, these mechanisms never develop
+T5	Value 450 497	if they go off meds, they lose all productivity
+T6	Value 540 639	due to the way that adderall and other stimulants interact with the brain, they create a dependency
+T7	Fact 669 756	the receptors in the the synapse get saturated, and are removed due to their redundancy
+T8	Value 758 850	This essentially means that if you don't have ADHD and are on these drugs, you will get ADHD
+T9	Value 861 1114	assuming that we can supply the entire country with stimulants (which I imagine our current industry couldn't handle), once they become dependent, they essentially turn from super productive to regularly productive people, unless you increase the dosage
+T10	Value 1120 1314	if there is any sort of disruption in the supplytrain, like a natural disaster, or other problems, you suddenly have a nation of people who have severe ADHD, and have no idea how to deal with it
+T11	Value 1323 1388	they haven't spent the past 30 years learning how to deal with it
+T12	Rhetorical_Statement 1391 1429	If you need an analogy think of coffee
+T13	Value 1431 1491	Coffee has a stimulant that people use to be more productive
+T14	Value 1497 1530	a lot of people drink it everyday
+T15	Value 1536 1680	when someone doesn't get their morning cuppa, or misses a day, they can go into withdrawal, being cranky and tired, and most likely unproductive
+T16	Rhetorical_Statement 1684 1754	You say that government regulation will help, but what do you propose?
+T17	Rhetorical_Statement 1811 1865	Do you propose limiting the amount one person can buy?
+T18	Value 1871 1909	there are proxy buyers willing to sell
+T19	Value 1911 1955	There will always be a way around the system
+T20	Rhetorical_Statement 1963 2078	compared with those side effects, do we really think that the trade off for a little more productivity is worth it?

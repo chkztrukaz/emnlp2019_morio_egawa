@@ -1,0 +1,12 @@
+op_id: 25
+op_title: I believe that grades in school are completely useless. CMV
+
+I sometimes "hire" undergraduate volunteers for internships at a research laboratory. The advice I got from professors when I started to do this was to set a reasonably high minimum GPA (e.g., 3.3) and not even consider anyone who fell below it. After breaking that rule a few times and getting burned, I've come to see the wisdom of it. Here's my understanding now:
+
+* GPA is ***not*** a valid measure of how enthusiastic or capable someone is.
+
+* GPA ***is*** a valid measurement of how reliable someone is. 
+
+When I'm scheduling brainwave recording sessions, I need to know with absolute certainty that the person I hired to help me collect data is not going to sleep through their alarm, miss their bus for the second time this week, lose their grandmother for the third time this year, drop out of contact all weekend because they're getting drunk, etc. 
+
+A high GPA tells me that someone is willing to prioritize the work that they promised to do, even when it gets boring or they don't feel like it or it interferes with their social plans. I can see why real employers might care about that as well.

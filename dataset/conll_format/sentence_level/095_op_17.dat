@@ -1,0 +1,14 @@
+1	All	_	_	B-Value
+2	children	_	_	I-Value
+3	must	_	_	I-Value
+4	be	_	_	I-Value
+5	vaccinated	_	_	I-Value
+6	in	_	_	I-Value
+7	order	_	_	I-Value
+8	to	_	_	I-Value
+9	attend	_	_	I-Value
+10	any	_	_	I-Value
+11	school	_	_	I-Value
+12	or	_	_	I-Value
+13	daycare	_	_	I-Value
+14	.	_	_	O

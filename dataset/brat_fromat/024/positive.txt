@@ -1,0 +1,9 @@
+op_id: 24
+op_title: I believe that the new "score hiding" system is poorly done and only makes viewing comment threads more annoying. CMV
+
+Often I find myself following the opinion of the mass. When I see a comment is controversial, I become especially critical to what is being said. And when I see a comment that has a very good upvote downvote ratio I rarely disagree, because I don't expect myself to.
+
+So I think it forces people to think more for themselves and not follow the hive mind.
+
+It's true that the sort order wasn't changed, this is necessary to not change the concept of Reddit's upvote system too much. It's a good compromise in my opinion, especially for discussion based subreddits like CMV.
+

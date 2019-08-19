@@ -1,0 +1,56 @@
+T1	Fact 119 168	Qualia are the highlights of conscious experience
+T2	Rhetorical_Statement 170 203	The *experience* of the color red
+T3	Rhetorical_Statement 205 224	The *pain* of a cut
+T4	Rhetorical_Statement 226 248	The *sound* of a crash
+T5	Value 251 290	I know that I *experience* these things
+T6	Fact 292 392	When I pinch my arm, my nervous system carries a signal to my brain that notifies it of the stimulus
+T7	Value 398 461	there is something additional: an actual experience of the pain
+T8	Fact 463 489	This experience is a quale
+T9	Fact 492 675	The philosopher David Chalmers has a thought-experiment that really highlights this, involving what he calls [philosophical zombies](http://en.wikipedia.org/wiki/Philosophical_zombie)
+T10	Rhetorical_Statement 687 756	imagine a world just like our own, down to every last quark and gluon
+T11	Rhetorical_Statement 758 788	When you pinch me, I say "Ow!"
+T12	Rhetorical_Statement 790 853	I can sit and watch a sunset, and remark that the sky is purple
+T13	Value 877 933	in this new world I never actually *experience* anything
+T14	Value 935 962	This seems totally possible
+T15	Value 975 1082	reacting to a pinch only requires the transmission of the stimulus to the brain, not a conscious experience
+T16	Value 1088 1190	his argument is this: Let's suppose that the physical description of our world accounts for everything
+T17	Value 1192 1343	This view is called *physicalism*, and though you didn't explicitly endorse it in your post, it is quite likely similar to the opinion you seem to hold
+T18	Rhetorical_Statement 1494 1573	now we have two worlds that are physically identical, down to every last detail
+T19	Value 1579 1648	in one world, we have conscious experience, and in the other we don't
+T20	Value 1653 1794	it cannot possibly be that the physical description of the world accounts for everything in it: for one, it doesn't account for consciousness
+T21	Value 1801 1826	physicalism must be false
+T22	Value 1829 1861	This argument is logically valid
+T23	Value 1867 1915	some people take issue with some of the premises
+T24	Value 1926 2024	it is possible that a complete physical description of the world *would* account for consciousness
+T25	Value 2036 2147	it would be logically impossible for an exact physical clone of our universe to be missing conscious experience
+T26	Value 2150 2233	Much has been written about this specific argument, both in favor and in opposition
+T27	Rhetorical_Statement 2235 2272	I'd like to return, though, to qualia
+T28	Value 2275 2314	Any worldview has to account for qualia
+T29	Value 2316 2396	For entirely physical worldviews, this means that qualia ultimately are physical
+T30	Fact 2398 2429	There are some famous arguments
+T31	Value 2440 2480	that try and show that this cannot be so
+T32	Value 2482 2518	One such is the [knowledge argument]
+T33	Rhetorical_Statement 2610 2769	Mary is a brilliant scientist who is, for whatever reason, forced to investigate the world from a black and white room via a black and white television monitor
+T34	Rhetorical_Statement 2771 2999	She specializes in the neurophysiology of vision and acquires, let us suppose, all the physical information there is to obtain about what goes on when we see ripe tomatoes, or the sky, and use terms like ‘red’, ‘blue’, and so on
+T35	Rhetorical_Statement 3001 3293	She discovers, for example, just which wavelength combinations from the sky stimulate the retina, and exactly how this produces via the central nervous system the contraction of the vocal cords and expulsion of air from the lungs that results in the uttering of the sentence ‘The sky is blue’
+T36	Rhetorical_Statement 3301 3409	What will happen when Mary is released from her black and white room or is given a color television monitor?
+T37	Rhetorical_Statement 3410 3441	Will she learn anything or not?
+T38	Value 3443 3537	One might say that she *does* learn something: what the actual experience of the color blue is
+T39	Value 3550 3687	since she had a complete physical knowledge of the color blue, but still learned something about blue: she learned something non-physical
+T40	Rhetorical_Statement 3694 3707	back to souls
+T41	Rhetorical_Statement 3709 3901	Does any of this offer any support for the classicial notion of a soul, where after one dies he goes to heaven to spend eternity with Grandma and Grandpa, swimming in rivers of milk and honey?
+T42	Rhetorical_Statement 3902 3915	Of course not
+T43	Value 3917 3965	It doesn't even say much about personal identity
+T44	Value 3967 4089	These arguments only support the notion that our conscious experience cannot be fully explained by a physicalist worldview
+T45	Testimony 4091 4131	I've quoted Schrodinger in another reply
+T46	Value 4141 4212	he was such a colorful guy, and I'll conclude with another quote of his
+T47	Value 4220 4318	The sensation of color cannot be accounted for by the physicist's objective picture of light-waves
+T48	Rhetorical_Statement 4320 4516	Could the physiologist account for it, if he had fuller knowledge than he has of the processes in the retina and the nervous processes set up by them in the optical nerve bundles and in the brain?
+T49	Value 4517 4534	I do not think so
+T50	Value 4549 4609	as a philosophical lay-person, I'm swayed by these arguments
+T51	Testimony 4611 4644	I have read many counters to them
+T52	Testimony 4650 4698	none of them have particularly resonated with me
+T53	Value 4719 4918	I can imagine someone coming to the opposite conclusion: that all of the talk about qualia and philsophical zombies amounts to sweeping what we don't quite understand under a rug and calling it magic
+T54	Value 4920 5018	I hope, however, that I've shown that there is something of a debate to be had about consciousness
+T55	Value 5020 5097	This debate has very little to say about what we would normally call a "soul"
+T56	Value 5103 5233	if we water-down the definition to basically mean "something apart from our physical brain", then one might be able to make a case

@@ -1,0 +1,7 @@
+op_id: 121
+op_title: I think religious people are incapable of logical thought, CMV
+
+Based on your story, I think your claim is a bit strong.  First, you need to qualify it with "The religious people I work with ..."  Second, do you honestly think they are *incapable* of logical thought?  Surely its possible that they just haven't learned about basic logic and various logical fallacies.  These things can be learned.  So instead of saying "incapable of" you should probably change that to "don't understand."  And even then, surely your religious co-workers have at least an intuitive understanding that "A is B" and "A is not B" are mutually exclusive.  And they surely have an intuitive understanding of basic logic like *modus ponens.*  They may not always apply it correctly in daily life, but most people are at least capable of understanding these concepts.  But they probably don't understand advanced logic concepts like modal logic (most people don't).  So at the most you can say the don't understand *some* logical thought. 
+
+Based on that, I think the strongest claim you can make is the following:  **"The religious people I work with don't understand and apply to their life some logical concepts."**
+

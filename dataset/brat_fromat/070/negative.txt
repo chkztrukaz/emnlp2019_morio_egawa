@@ -1,0 +1,10 @@
+op_id: 70
+op_title: CMV: I believe that the fuel economy benefits offered by hybrid cars is a myth due to a basic understanding of physics.
+
+The simplest way to understand this is to break the energy consumption of a car into two pieces: acceleration and cruise. When accelerating the weight of the car is extremely important to fuel economy. 1% more weight = 1% more energy required to accelerate. At cruise weight becomes almost negligible because the primary loss is from drag which is not effected by weight.
+
+From the very first gas-electric hybrid the key piece of technology was regenerative braking. Suddenly instead of throwing out all the energy that was spent accelerating the car each time you have to stop you recover it and store it in a battery for later use accelerating. For most hybrids the main fuel economy gain comes from stop and go driving. On the highway, hybrids and close to identical as possible gasoline powered cars are not all that different. 
+
+So lets assume that a hybrid Prius is ~10% heavier than a conventional Prius. So Hybrid = 1360 kg, Conventional = 1230 kg. Accelerating to 100kph uses H = 525 kJ, C = 472.5 kJ. Assuming they have identical efficiencies they use the same amount of fuel. Now they brake and the conventional loses all that energy while the hybrid recovers 50% of it. Next time they accelerate the hybrid uses 262.5 kJ from the battery and 262.5 kJ from gasoline while the conventional uses 472.5 kJ from gasoline.
+
+So even without any power source other than gas, higher efficiency engines, better RPM mapping, or any technology other than regenerative braking, the hybrid comes out on top.

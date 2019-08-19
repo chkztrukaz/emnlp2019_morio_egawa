@@ -1,0 +1,13 @@
+1	Here	_	_	B-Fact
+2	is	_	_	I-Fact
+3	a	_	_	I-Fact
+4	breakdown	_	_	I-Fact
+5	of	_	_	I-Fact
+6	U.S.	_	_	I-Fact
+7	charitable	_	_	I-Fact
+8	donations	_	_	I-Fact
+9	in	_	_	I-Fact
+10	2011	_	_	I-Fact
+11	:	_	_	I-Fact
+12	http://www.nps.gov/partnerships/fundraising_individuals_statistics.htm	_	_	I-Fact
+13	.	_	_	O

@@ -1,0 +1,30 @@
+T1	Major_Claim 20 92	Most Charitable Donations in the U.S. are Actually Luxury Spending. CMV.
+T2	Value 94 209	Tax-deductable charitable donations in the U.S. include giving to any one of a very broad spectrum of organizations
+T3	Fact 212 309	The missions of these organizations range from eradicating malaria and polio to funding the opera
+T4	Value 312 433	Most charitable giving is unfortunately not anything near the best use of charitable funds to improve the lives of others
+T5	Value 436 476	Causes are chosen selfishly by the donor
+T6	Value 481 529	it is really a form of glorified luxury spending
+T7	Value 533 590	Around the world, it is surprisingly cheap to save a life
+T8	Fact 593 829	Give Well, a charity evaluation group which conducts independant research, uses $3,000 per life saved as a basic criteria for cost-effective charitable impact (http://www.givewell.org/international/technical/criteria/cost-effectiveness)
+T9	Value 832 872	Top groups clear this hurdle comfortably
+T10	Value 875 1110	According to Give Well, the Against Malaria Foundation has saved one child life for every $2,500 it has been given, and can save one additional life for every futures $2,300 donation due to the savings it has achieved at a larger scale
+T11	Fact 1114 1242	Here is a breakdown of U.S. charitable donations in 2011: http://www.nps.gov/partnerships/fundraising_individuals_statistics.htm
+T12	Fact 1245 1537	Of the $300 billion donated, 32% went to religious groups, 13% went to colleges and universities for education, gifts to foundations were 10%, support for arts/culture/humanities were 4%, and 3% of funds were unallocated (including carryover tax benefits and donations to government agencies)
+T13	Value 1540 1617	The combined total of this donation is 62% of U.S. giving, a healthy majority
+T14	Rhetorical_Statement 1623 1682	Lets just take the 4% spent on the arts as a starting point
+T15	Fact 1685 1715	That is $13.12 billion dollars
+T16	Fact 1718 1864	Donated to the most cost-effective global charities, using the $3,000 per life measure, this money could be expected to save about 4 million lives
+T17	Value 1871 1996	in the U.S., we use it to pay for very talented classical musicians, visual artists, and poets to entertain the wealthy elite
+T18	Rhetorical_Statement 2003 2044	take the college and university component
+T19	Value 2047 2301	The average cost of one year of undergraduate education is over $20,000 at public colleges, and over $50,000 and private colleges (which receive a disproportionate share of donations) (source: http://scholarships.com/resources/campus-life/college-costs/)
+T20	Rhetorical_Statement 2304 2510	Lets charitably assume that donations to universities actually go 100% to the core purpose of universities, and never get spent on things like athletics or fundraising costs or building gaudy structures etc
+T21	Fact 2513 2769	Even if that's the case, and even using $20k/year for 4 years as the cost of a college degree, every college education that these donations pay for costs the lives of about 22 people, who could have been saved by a cost-efficient use of that donation money
+T22	Rhetorical_Statement 2776 2961	how do I feel about fancy billionaires like T Boone Pickens, who donate tens millions to a unversity's football program and get rewarded with tax deductions and their name on buildings?
+T23	Rhetorical_Statement 2966 3058	ambitious social givers who spend $1000/plate on a fundraising dinner for their local opera?
+T24	Rhetorical_Statement 3060 3073	You can guess
+T25	Rhetorical_Statement 3076 3219	Should I feel much better about the people who donate to U.S. medical causes which are maybe about 1/10th as cost effective as groups like AMF?
+T26	Value 3221 3309	Those causes are only 10% less wasteful than a giant donation to a college football team
+T27	Value 3386 3451	Most donations in the U.S. go to relatively cost-effective groups
+T28	Value 3459 3598	Donations that go to grossly inefficient groups are still admirable charity and not just objectively inferior to cost-effective life-savers
+T29	Value 3600 3749	note that I and Give Well both would try to give proportional credit to non-life-saving interventions like curing disability and chronic disease, etc
+T30	Value 3758 4077	Most donors are really trying to give to the best causes, not just selecting causes based on who has the coolest fundraising events, who is socially trendy, what improves life in their backyard instead of in some far-flung third world country, whose fundraising efforts have been most aggressive in targetting them, etc

@@ -1,0 +1,11 @@
+1	I	_	_	O
+2	believe	_	_	O
+3	that	_	_	O
+4	racism	_	_	B-Value
+5	is	_	_	I-Value
+6	fundamentally	_	_	I-Value
+7	a	_	_	I-Value
+8	product	_	_	I-Value
+9	of	_	_	I-Value
+10	ignorance	_	_	I-Value
+11	.	_	_	O

@@ -1,0 +1,12 @@
+1	I	_	_	O
+2	believe	_	_	O
+3	that	_	_	O
+4	self-denial	_	_	B-Value
+5	is	_	_	I-Value
+6	dangerous	_	_	I-Value
+7	,	_	_	I-Value
+8	unhealthy	_	_	I-Value
+9	,	_	_	I-Value
+10	and	_	_	I-Value
+11	unrealistic	_	_	I-Value
+12	.	_	_	O

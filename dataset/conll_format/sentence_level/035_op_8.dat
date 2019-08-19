@@ -1,0 +1,11 @@
+1	I	_	_	O
+2	believe	_	_	O
+3	this	_	_	B-Policy
+4	logic	_	_	I-Policy
+5	should	_	_	I-Policy
+6	be	_	_	I-Policy
+7	applied	_	_	I-Policy
+8	to	_	_	I-Policy
+9	insurance	_	_	I-Policy
+10	rates	_	_	I-Policy
+11	.	_	_	O

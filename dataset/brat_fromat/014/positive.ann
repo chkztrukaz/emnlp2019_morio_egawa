@@ -1,0 +1,25 @@
+T1	Rhetorical_Statement 246 251	Wrong
+T2	Value 254 331	It's been shown that it's not *voting* that creates the Us vs Them atmosphere
+T3	Value 342 392	such thinking is inherent to the labels themselves
+T4	Fact 395 981	There was an experiment [edit: [Link](http://www.niemanlab.org/2012/06/how-do-you-tell-when-the-news-is-biased/?utm_source=arstechnica)] which presented subjects with the same media clip, but with a lead in emphasizing divisive labels (eg "We're trying to find the opinions of Republicans/Democrats/Conservatives/Liberals on the following news report"), unifying labeles ("...opinions of Americans...") or without labels at all ("...opinions..."), and the first group reacted significantly more strongly to the partisan slant than the third group, who reacted more strongly than the 2nd
+T5	Value 993 1150	it is not *voting* for a republican or a democrat that makes you more partisan, but *thinking* of yourself as a republican or democrat (or any label, really)
+T6	Value 1395 1441	This is the nature of representative democracy
+T7	Value 1444 1570	Except because we're not a parliamentary system, in the US we don't vote for a *party's* ideals, but on a *candidate's* ideals
+T8	Value 1575 1677	That said no candidate's ideals match yours to the point that you can vote for them in good conscience
+T9	Value 1723 1944	to decide ahead of time that it's not *possible* for a Republican or Democrat to hold  the same values as you do is just as horrible a prejudice as deciding ahead of time that a black person or white person cannot, either
+T10	Value 1946 2022	in both cases, you're treating people as their labels, rather than as people
+T11	Value 2144 2156	This is true
+T12	Value 2162 2238	that doesn't mean you shouldn't *vote,* it means you should not join a party
+T13	Value 2241 2350	So long as you continue to *actively* think of yourself as independent, you will be able to resist that trend
+T14	Rhetorical_Statement 2470 2601	Wait, you're rational enough to see that he masses *don't* think, yet you're just going to sit back and let them run the elections?
+T15	Rhetorical_Statement 2603 2615	That's silly
+T16	Policy 2618 2666	If you're better than that, vote on *substance.*
+T17	Value 2668 2772	Places like ballotpedia collect lots of good information on all the topics and candidates on your ballot
+T18	Value 2775 2884	If you do your research, you can balance out at least one Charisma based vote with your Competence based vote
+T19	Value 2990 3060	that's their *job,* to reflect the will of the people who elected them
+T20	Rhetorical_Statement 3063 3214	You wouldn't ridicule a state for enacting an initiative "purely because doing so upholds the views of the people who voted in favor of it," would you?
+T21	Rhetorical_Statement 3216 3238	What's different here?
+T22	Value 3373 3411	That, fren, is *worse* than not voting
+T23	Fact 3414 3612	That potentially enables [an unethical poll worker](http://www.foxnews.com/politics/2013/03/11/cincinnati-poll-worker-charged-with-voting-half-dozen-times-in-november/) to submit a vote in your name
+T24	Rhetorical_Statement 3624 3713	isn't that doing exactly what you're complaining about in your antepenultimate paragraph?
+T25	Rhetorical_Statement 3715 3804	"If you're a [blank] voter, you've Done Your Part to ~~support the democracy~~ protest!"?

@@ -1,0 +1,24 @@
+op_id: 70
+op_title: CMV: I believe that the fuel economy benefits offered by hybrid cars is a myth due to a basic understanding of physics.
+
+&gt;1 - In order to function, a hybrid car must have a series of very heavy batteries, a very heavy electric motor and a series of other heavy electric components (eg systems to recover lost energy during breaking).
+
+[According to the Prius wiki](http://en.wikipedia.org/wiki/Toyota_Prius), the battery pack weighs 118 lbs. Since I can't find a figure online, let's say the electric motor components (which are the major components for regenerative braking) add another 100 onto that even though that's almost certainly highballing. So 218 pounds out of a total of around [2900 lb curb weight](http://en.wikipedia.org/wiki/Toyota_Prius_%28XW20%29) puts ~7.5% more weight onto the vehicle. Not as much as one might think. (It's also the weight of a full grown adult, so take into account how much more fuel you use driving somewhere with a friend as opposed to driving solo. Yes, that weight hurts the vehicle's fuel economy but it is outweighed by the benefits gained by regenerative braking.
+
+&gt;It is my contention that if you were to take a vehicle such as a Prius, and completely remove all of the electrical components, it would achieve a better level of fuel efficiency over a year of driving than an identical hybrid.
+
+The only way this would be possible is if that year of driving involved **significantly** less stopping than the average driver makes. At steady speed highway driving, you're absolutely correct in believing that non-plugin hybrids are outperformed by normal vehicles with equivalent size/efficiency combustion engines because it is simple physics.
+
+What you don't seem to be taking into account (or at least understating the importance of) is regenerative braking. 100% of the kinetic energy of a moving vehicle is lost due to conventional braking. Regenerative braking on the other hand can return [as much as 50%](http://auto.howstuffworks.com/auto-parts/brakes/brake-types/regenerative-braking5.htm) of that energy. For the sake of keeping things honest, let's go with half of that and say that regenerative braking is 25% efficient.
+
+See the importance of regenerative braking? Using Newton's 2nd law, we can estimate that to get up to speed, Hybrid X uses 7.5% more energy (and fuel) than Non-Hybrid X, but then when they both stop, Hybrid X gains 25% of it's kinetic energy back that Non Hybrid X loses. 
+
+This is especially important because vehicle weight doesn't have much to do with fuel consumption from driving at a steady speed (Newton's 1st law). Yes, weight contributes a bit to the rolling resistance of the tires on the road, but the predominant factor is aerodynamic drag-something that doesn't care about vehicle weight at all.
+
+So to summarize:
+
+Driving at a steady speed - slightly better fuel economy for non-Hybrids.
+
+Driving with braking - significantly better fuel economy for Hybrids.
+
+So like I said before, unless you plan on doing much more highway driving than city driving (and even then the highway better not be very busy), a hybrid will be more efficient than it's non hybrid counterpart.
