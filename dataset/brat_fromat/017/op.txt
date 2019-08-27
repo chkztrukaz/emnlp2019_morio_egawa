@@ -1,4 +1,0 @@
-op_id: 17
-op_title: I believe scientific reasoning is the best way to collectively know reality, understand the natural world, and gain empirical knowledge.
-
-For clarification, I'm speaking of contemporary scientific reasoning.

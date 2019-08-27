@@ -1,6 +1,0 @@
-op_id: 49
-op_title: I think the US reaction to Snowden's leaks is far more unsettling than the information those leaks contained. CMV
-
-Why does everyone think that Snowden's information indicates that the U.S. government is reading your e-mail?  PRISM was not about data-mining, despite the original Greenwald article.  The bigger story has been how terrible Greenwald's reporting was, and how ignorant of NSA operations Snowden actually is.  PRISM's interaction with tech companies was no as a datamining technique, and it is not targeted toward American citizens.  PRISM is, in a nutshell, a set of procedures to procure information from larger tech companies when complying with FISA warrants.
-
-Unless you have a FISA warrant out on your ass, OP, the NSA isn't reading your e-mail.  And they don't know anything personally identifiable about you from phone records - they have non-personalized metadata from Verizon.  They can seek a warrant and find out the *who* behind a particular communications device, but the information they have does not identify you.

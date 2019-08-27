@@ -1,4 +1,0 @@
-op_id: 24
-op_title: I believe that the new "score hiding" system is poorly done and only makes viewing comment threads more annoying. CMV
-
-The score hiding may not effect the order with which the comments are displayed over all but in threads, which are really the purpose of this sub-reddit as they denote discussion, it is actually incredibly useful in ensuring people remain unbiased. Far too often around reddit I see 'performance debates' where one speaker accumulates a great amount of upvotes and the other a great amount of downvotes. This causes people to gloss over the latter and simply read the first as they believe it to be the 'good' one. As we want people to read both sides of the argument and decide for themselves before giving upvotes I believe the Score Hiding system is actually very useful.

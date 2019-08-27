@@ -1,4 +1,0 @@
-op_id: 24
-op_title: I believe that the new "score hiding" system is poorly done and only makes viewing comment threads more annoying. CMV
-
-The intention is to allow people to not upvote other posts simply because they already have upvotes, but it didn't address the reason that upvoted posts gather more upvotes. No one looks at a comment and thinks, "Wow, 2140 other people liked this, certainly it's worth another!" Rather, the reason that upvoted posts accumulate upvotes is simply because they get seen more. People stop scrolling down at some point. And even with votes hidden, *reddit doesn't change the sort order*. Upvoted posts still gather upvotes like a torrent.

@@ -1,4 +1,4 @@
-# ChangeMyView dataset and scripts of ACL-SRW 2019 and EMNLP 2019
+# EU extraction scripts of EMNLP 2019
 
 
 
