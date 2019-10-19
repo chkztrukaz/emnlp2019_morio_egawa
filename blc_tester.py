@@ -15,8 +15,6 @@ from model.BLC import BLC, batch_convert
 
 test_documents = [
     ['hello', '.'],
-    ['I', 'think', 'that', 'your', 'experience', 'was', 'ridiculous', '.'],
-    ['Some', 'students', 'can', 'study', 'mathematics', ',', 'although', 'I', 'am', 'not', 'a', 'math', 'teacher', '.'],
 ]
 
 parser = argparse.ArgumentParser(description=u'')
