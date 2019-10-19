@@ -1,4 +1,6 @@
-# EU extraction scripts of EMNLP 2019
+# Revealing and Predicting Online Persuasion Strategy with Elementary Units
+This is an official implementation for our paper entitled "Revealing and Predicting Online Persuasion Strategy with Elementary Units" at EMNLP 2019.
+
 
 ## ChangeMyView Annotated Dataset
 Please download the ChangeMyView annotated dataset (.zip) below:
