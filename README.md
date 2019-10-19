@@ -1,18 +1,38 @@
 # EU extraction scripts of EMNLP 2019
 
+## ChangeMyView Annotated Dataset
+Please download the ChangeMyView annotated dataset (.zip) below:
+- http://katfuji.lab.tuat.ac.jp/nlp_datasets/
+
+Unzip and place the downloaded dataset in the top directory.
 
 
-## Papers
+## Run
+
+##### Donwload GloVe
+```
+./setup_dataset.sh
+```
+
+##### Run Train
+```
+python blc_trainer.py --gpu {GPU No. or -1 if using CPU}
+```
+
+Note that evaluation results change for each run because we use random train/test split and initializations per run.
 
 
-#### 1. [EMNLP 2019] Elementary Units Reveal Online Persuasion Strategy
+## Citation
 
-This paper is a complete study which only analyzes EUs in the view of "what makes online arguments persuasive" than the previous workshop paper, and shows the method to predict EUs by neural networks.
-Moreover, this paper isn't focusing on Support/Attack links to highlight EUs.
+If you use our dataset or code, please cite following papers.
+
+#### 1. [EMNLP 2019] Revealing and Predicting Online Persuasion Strategy with Elementary Units
+
+This paper is a pilot study which analyzes EUs and shows the method to predict EUs by neural networks.
 
 ```
 @inproceedings{morio-etal-2019,
-    title = "Elementary Units Reveal Online Persuasion Strategy",
+    title = "Revealing and Predicting Online Persuasion Strategy with Elementary Units",
     author = "Morio, Gaku  and
       Egawa, Ryo  and
       Fujita, Katsuhide",
@@ -27,7 +47,7 @@ Moreover, this paper isn't focusing on Support/Attack links to highlight EUs.
 
 #### 2. [ACL-SRW 2019] Annotating and Analyzing Semantic Role of Elementary Units and Relations in Online Persuasive Arguments
 
-This paper describes detailed annotation process of arguments (EUs and Support/Attack links) in ChangeMyView and conducts some pilot examinations.
+This paper describes detailed annotation process of arguments (EUs and Support/Attack links) in ChangeMyView and conducts some  examinations.
 
 ```
 @inproceedings{egawa-etal-2019,
