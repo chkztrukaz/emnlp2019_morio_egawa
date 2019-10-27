@@ -1,5 +1,3 @@
-# coding: utf-8
-
 import argparse
 import random
 from typing import List

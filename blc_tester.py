@@ -1,5 +1,3 @@
-# coding: utf-8
-
 from typing import List
 import pandas as pd
 import argparse
