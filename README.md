@@ -7,20 +7,34 @@ Please download the ChangeMyView annotated dataset (.zip) below:
 - http://katfuji.lab.tuat.ac.jp/nlp_datasets/
 
 Unzip and place the downloaded dataset in the top directory.
-
-
-## Run
-
-##### Donwload GloVe
+Or, you can setup by:
 ```
 ./setup_dataset.sh
 ```
 
-##### Run Train
+## Run
+
+#### Environment
+Requires Python 3.5+, and following packages:
+```
+pip install -r requirements.txt
+```
+
+#### Prepare the dataset and GloVe
+Run following script to download the dataset and GloVe embedding file.
+```
+./setup_dataset.sh
+```
+
+#### Run training script
 ```
 python blc_trainer.py --gpu {GPU No. or -1 if using CPU}
 ```
+Optionally, you can use GPUs by installing cupy.
+https://docs-cupy.chainer.org/en/stable/install.html
 
+You will see log directory when training run.
+The log directory contains parameter log, evaluation results, sample test output, and loss logs.
 Note that evaluation results change for each run because we use random train/test split and initializations per run.
 
 
