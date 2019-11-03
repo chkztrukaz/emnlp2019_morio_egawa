@@ -47,17 +47,18 @@ If you use our dataset or code, please cite following papers.
 This paper is a pilot study which analyzes EUs and shows the method to predict EUs by neural networks.
 
 ```
-@inproceedings{morio-etal-2019,
+@inproceedings{morio-etal-2019-revealing,
     title = "Revealing and Predicting Online Persuasion Strategy with Elementary Units",
     author = "Morio, Gaku  and
       Egawa, Ryo  and
       Fujita, Katsuhide",
-    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and 9th International Joint Conference on Natural Language Processing",
+    booktitle = "Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)",
     month = nov,
     year = "2019",
     address = "Hong Kong, China",
     publisher = "Association for Computational Linguistics",
-    pages = "to appear",
+    url = "https://www.aclweb.org/anthology/D19-1653",
+    pages = "6275--6280",
 }
 ```
 
